@@ -20,9 +20,15 @@ Common interview questions that you may be asked about graphs will often center 
 
 ### Relevant resources
 https://my.generalassemb.ly/activities/403
+
 https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855
+
 https://stackabuse.com/graph-data-structure-interview-questions/
+
 https://www.cs.usfca.edu/~galles/visualization/BFS.html
+
 https://www.cs.usfca.edu/~galles/visualization/DFS.html
+
 https://www.techiedelight.com/breadth-first-search/
+
 https://www.techiedelight.com/depth-first-search/
